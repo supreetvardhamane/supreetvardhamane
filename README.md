@@ -1,6 +1,6 @@
 # Hi, I'm Supreet 👋
 
-18-year-old student who loves building things and learning how software works.
+19-year-old student who loves building things and learning how software works.
 
 🎯 Focus: Full-Stack Development | DSA (C++) | Problem Solving  
 📚 Learning: JavaScript | Node.js | Operating Systems  
