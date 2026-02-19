@@ -1,29 +1,14 @@
 # Hi, I'm Supreet 👋
 
-19-year-old student who loves building things and learning how software really works.
+18-year-old student who loves building things and learning how software works.
 
-## 🎯 Focus
-- Full-Stack Web Development
-- Data Structures & Algorithms (C++)
-- Problem Solving 
+🎯 Focus: Full-Stack Development | DSA (C++) | Problem Solving  
+📚 Learning: JavaScript, Node.js, Operating Systems  
+🛠 Tech: C, C++, HTML, CSS, JavaScript, Python  
 
-## 📚 Currently Learning
-- Advanced JavaScript & DOM
-- Node.js & Express
-- Data Structures & Algorithms in C++
-- Operating Systems
-
-## 🛠 Tech Stack
-- C (Intermediate)
-- C++
-- HTML, CSS, JavaScript
-- Node.js (Learning)
-- Python
-- Git & GitHub
-
-## 📈 2026 Goals
+📈 2026 Goals:
 - Become fit 💪
-- Build complete end-to-end web applications
+- Build complete end-to-end web apps
 - Stay consistent with DSA practice
 
 ---
