@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Supreet 👋
 
-<!--
-**supreetvardhamane/supreetvardhamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+19-year-old student who loves building things and learning how software really works.
 
-Here are some ideas to get you started:
+## 🎯 Focus
+- Full-Stack Web Development
+- Data Structures & Algorithms (C++)
+- Problem Solving 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Advanced JavaScript & DOM
+- Node.js & Express
+- Data Structures & Algorithms in C++
+- Operating Systems
+
+## 🛠 Tech Stack
+- C (Intermediate)
+- C++
+- HTML, CSS, JavaScript
+- Node.js (Learning)
+- Python
+- Git & GitHub
+
+## 📈 2026 Goals
+- Become fit 💪
+- Build complete end-to-end web applications
+- Stay consistent with DSA practice
+
+---
+
+I enjoy breaking things, fixing them, and understanding how they work.
