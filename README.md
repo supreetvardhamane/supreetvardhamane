@@ -1,11 +1,8 @@
-Hi, I’m Supreet 👋
+Hi, I’m Supreet 👋  
+**Computer science student** building web apps & solving DSA.
 
-I’m a 19-year-old computer science student curious about how software actually works ⚙️    
-I started by breaking things just to understand them — now I build them from scratch 💻
-
-Focused on Full-Stack Development and DSA (C++), currently exploring JavaScript, Node.js, and Python 🎯
+Curious about how software works ⚙️  
+From breaking things to building them 💻
 
 I believe simplicity is the ultimate sophistication ✨  
-Small improvements. Clear thinking. Growing step by step 🌱
-
 Still learning. Still building. Always curious 🚀
