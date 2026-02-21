@@ -4,5 +4,5 @@ Hi, I’m Supreet 👋
 Curious about how software works ⚙️  
 From breaking things to building them 💻
 
-I believe simplicity is the ultimate sophistication ✨  
+Focused on fundamentals, growth and consistency 🎯  
 Still learning. Still building. Always curious 🚀
